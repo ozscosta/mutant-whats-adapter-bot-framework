@@ -1,0 +1,21 @@
+{
+  "name": "bot-framework-mutant-whats-adapter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "keywords": [
+    "bot framework",
+    "bot",
+    "mutant",
+    "mutant whats",
+    "whatsapp",
+    "adapter"
+  ],
+  "author": "Ozeias Costa <ozeias.costa@mutant.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "form-data": "^4.0.0",
+    "lambda-log": "^3.1.0"
+  }
+}
